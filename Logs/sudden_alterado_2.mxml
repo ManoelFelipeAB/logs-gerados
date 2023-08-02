@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file has been generated with the OpenXES library. It conforms -->
+<!-- to the legacy MXML standard for log storage and management. -->
+<!-- OpenXES library version: 1.0RC7 -->
+<!-- OpenXES is available from http://www.xes-standard.org/ -->
+<WorkflowLog>
+	<Source program="XES MXML serialization" openxes.version="1.0RC7"/>
+	<Process id="cb4" description="process with id cb4">
+		<Data>
+			<attribute name="concept:name">cb4</attribute>
+			<attribute name="drifts:">[[2, 4, 8, 10, 15], [1, 2, 3, 8, 9, 14, 15], [0, 4, 5, 6, 7, 10, 11, 12, 13]]</attribute>
+		</Data>
+		<ProcessInstance id="0" description="instance with id 0">
+			<Data>
+				<attribute name="concept:name">0</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T00:00:00-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T00:00:00-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T01:54:53.807-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T01:54:53.807-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T02:37:35.018-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T02:37:35.018-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T05:01:35.428-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T05:01:35.428-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T05:33:31.193-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T05:33:31.193-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T05:54:50.706-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T05:54:50.706-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T06:26:52.752-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T06:26:52.752-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T07:26:21.158-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T07:26:21.158-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T08:41:44.031-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T08:41:44.031-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T12:13:43.738-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T12:13:43.738-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T12:33:30.406-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T12:33:30.406-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T13:03:32.831-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T13:03:32.831-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T13:23:19.464-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T13:23:19.464-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T13:26:00.615-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T13:26:00.615-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T17:40:56.028-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T17:40:56.028-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T18:01:09.915-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T18:01:09.915-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T18:43:10.023-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T18:43:10.023-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="1" description="instance with id 1">
+			<Data>
+				<attribute name="concept:name">1</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T02:34:35.672-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T02:34:35.672-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T02:46:15.215-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T02:46:15.215-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T03:32:46.205-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T03:32:46.205-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T04:02:59.917-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T04:02:59.917-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T04:58:47.208-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T04:58:47.208-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T06:06:28.114-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T06:06:28.114-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T07:16:38.951-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T07:16:38.951-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T07:26:28.403-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T07:26:28.403-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T07:59:11.773-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T07:59:11.773-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T08:59:13.023-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T08:59:13.023-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T12:20:40.991-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T12:20:40.991-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Cancel application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T14:53:32.228-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Cancel application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T14:53:32.228-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application canceled</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-01T15:10:02.124-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application canceled</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-01T15:10:02.124-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="2" description="instance with id 2">
+			<Data>
+				<attribute name="concept:name">2</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T14:27:22.309-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T14:27:22.309-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T14:31:26.312-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T14:31:26.312-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T15:54:03.309-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T15:54:03.309-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T17:01:22.378-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T17:01:22.378-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T17:25:21.977-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T17:25:21.977-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T19:38:39.396-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T19:38:39.396-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Prepare acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T20:31:15.448-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Prepare acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T20:31:15.448-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check if home insurance quote is requested</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T20:37:34.333-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check if home insurance quote is requested</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T20:37:34.333-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T22:21:53.879-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T22:21:53.879-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:52:39.596-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:52:39.596-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Cancel application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:53:52.877-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Cancel application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:53:52.877-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application canceled</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:57:06.995-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application canceled</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:57:06.995-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="3" description="instance with id 3">
+			<Data>
+				<attribute name="concept:name">3</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T20:06:14.286-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T20:06:14.286-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T21:06:23.184-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T21:06:23.184-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-02T22:07:42.953-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-02T22:07:42.953-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T00:08:46.770-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T00:08:46.770-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T01:33:49.155-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T01:33:49.155-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T01:40:32.603-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T01:40:32.603-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:14:42.306-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:14:42.306-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:20:43.346-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:20:43.346-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Cancel application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T04:19:59.429-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Cancel application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T04:19:59.429-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application canceled</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T05:49:36.032-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application canceled</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T05:49:36.032-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="4" description="instance with id 4">
+			<Data>
+				<attribute name="concept:name">4</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:23:21.464-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:23:21.464-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T02:38:10.848-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T02:38:10.848-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T03:23:47.421-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T03:23:47.421-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T03:49:35.632-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T03:49:35.632-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T04:53:18.834-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T04:53:18.834-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T05:44:36.001-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T05:44:36.001-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T06:34:07.968-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T06:34:07.968-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T06:51:09.002-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T06:51:09.002-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="5" description="instance with id 5">
+			<Data>
+				<attribute name="concept:name">5</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T10:12:54.708-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T10:12:54.708-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T11:10:47.745-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T11:10:47.745-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T12:22:59.186-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T12:22:59.186-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T12:52:25.808-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T12:52:25.808-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T15:14:00.285-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T15:14:00.285-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T17:05:29.602-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T17:05:29.602-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T18:44:41.903-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T18:44:41.903-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T19:11:42.977-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T19:11:42.977-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T20:50:39.795-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T20:50:39.795-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T21:26:53.073-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T21:26:53.073-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T22:21:51.184-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T22:21:51.184-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T23:01:54.707-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T23:01:54.707-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T23:17:25.335-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T23:17:25.335-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T23:17:34.629-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T23:17:34.629-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-03T23:22:25.305-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-03T23:22:25.305-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T00:35:47.744-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T00:35:47.744-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T01:28:24.107-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T01:28:24.107-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T04:45:33.010-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T04:45:33.010-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T07:10:36.490-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T07:10:36.490-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T07:37:31.284-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T07:37:31.284-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="6" description="instance with id 6">
+			<Data>
+				<attribute name="concept:name">6</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T04:45:00.355-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T04:45:00.355-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T07:41:31.208-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T07:41:31.208-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T08:49:42.356-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T08:49:42.356-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T08:51:47.059-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T08:51:47.059-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T09:58:37.591-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T09:58:37.591-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T11:18:35.706-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T11:18:35.706-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Prepare acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T12:03:05.092-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Prepare acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T12:03:05.092-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check if home insurance quote is requested</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T12:44:33.210-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check if home insurance quote is requested</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T12:44:33.210-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send home insurance quote</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T12:55:41.235-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send home insurance quote</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T12:55:41.235-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T13:13:11.967-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T13:13:11.967-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Cancel application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T15:18:10.746-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Cancel application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T15:18:10.746-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application canceled</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T15:47:23.001-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application canceled</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T15:47:23.001-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="7" description="instance with id 7">
+			<Data>
+				<attribute name="concept:name">7</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T04:57:36.263-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T04:57:36.263-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T05:34:12.484-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T05:34:12.484-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T05:51:36.297-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T05:51:36.297-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T08:03:18.628-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T08:03:18.628-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T09:22:44.303-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T09:22:44.303-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T12:19:53.200-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T12:19:53.200-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T13:09:32.706-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T13:09:32.706-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T14:05:03.481-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T14:05:03.481-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T15:49:50.114-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T15:49:50.114-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Prepare acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T16:05:38.008-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Prepare acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T16:05:38.008-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check if home insurance quote is requested</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T16:36:17.710-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check if home insurance quote is requested</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T16:36:17.710-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send home insurance quote</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T18:03:25.097-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send home insurance quote</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T18:03:25.097-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T19:24:43.578-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T19:24:43.578-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Cancel application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T19:31:08.931-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Cancel application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T19:31:08.931-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application canceled</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T21:20:25.974-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application canceled</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T21:20:25.974-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="8" description="instance with id 8">
+			<Data>
+				<attribute name="concept:name">8</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-04T23:20:10.154-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-04T23:20:10.154-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T00:28:21.266-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T00:28:21.266-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T01:10:23.390-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T01:10:23.390-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T02:23:42.319-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T02:23:42.319-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T02:48:20.364-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T02:48:20.364-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T03:03:50.042-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T03:03:50.042-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T06:39:43.231-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T06:39:43.231-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T07:30:35.628-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T07:30:35.628-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T08:09:55.434-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T08:09:55.434-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T09:46:03.232-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T09:46:03.232-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T11:07:18.639-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T11:07:18.639-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="9" description="instance with id 9">
+			<Data>
+				<attribute name="concept:name">9</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T13:16:10.035-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T13:16:10.035-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T14:17:35.865-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T14:17:35.865-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T14:19:59.145-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T14:19:59.145-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T14:22:37.652-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T14:22:37.652-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T14:28:16.546-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T14:28:16.546-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T17:53:54.880-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T17:53:54.880-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T18:01:03.131-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T18:01:03.131-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T18:55:40.581-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T18:55:40.581-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T20:13:55.566-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T20:13:55.566-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T21:44:33.744-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T21:44:33.744-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T22:34:02.671-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T22:34:02.671-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T22:38:04.951-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T22:38:04.951-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Prepare acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T22:58:58.150-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Prepare acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T22:58:58.150-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check if home insurance quote is requested</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T23:09:56.349-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check if home insurance quote is requested</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T23:09:56.349-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T23:12:34.469-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T23:12:34.469-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-05T23:43:43.745-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-05T23:43:43.745-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Cancel application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-06T00:30:08.033-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Cancel application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-06T00:30:08.033-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application canceled</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-06T02:02:13.718-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application canceled</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-06T02:02:13.718-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="10" description="instance with id 10">
+			<Data>
+				<attribute name="concept:name">10</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T10:30:07.983-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T10:30:07.983-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T10:41:36.149-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T10:41:36.149-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T11:04:13.076-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T11:04:13.076-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T11:10:16.489-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T11:10:16.489-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T11:48:28.887-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T11:48:28.887-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T12:49:16.368-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T12:49:16.368-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T16:05:13.007-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T16:05:13.007-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T16:50:54.334-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T16:50:54.334-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="11" description="instance with id 11">
+			<Data>
+				<attribute name="concept:name">11</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T20:15:37.928-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T20:15:37.928-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T20:42:30.522-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T20:42:30.522-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T21:43:18.614-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T21:43:18.614-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T22:12:12.562-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T22:12:12.562-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T22:33:56.071-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T22:33:56.071-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-07T23:28:50.474-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-07T23:28:50.474-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T00:58:52.144-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T00:58:52.144-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T02:14:30.070-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T02:14:30.070-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="12" description="instance with id 12">
+			<Data>
+				<attribute name="concept:name">12</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T05:53:19.494-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T05:53:19.494-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T06:46:05.131-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T06:46:05.131-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T06:54:11.531-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T06:54:11.531-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T07:55:07.955-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T07:55:07.955-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T08:18:32.554-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T08:18:32.554-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T08:24:09.911-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T08:24:09.911-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T11:42:10.418-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T11:42:10.418-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T11:58:06.794-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T11:58:06.794-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T14:07:23.495-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T14:07:23.495-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Reject application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T15:43:27.533-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Reject application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T15:43:27.533-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan application rejected</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T15:46:22.890-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan application rejected</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T15:46:22.890-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="13" description="instance with id 13">
+			<Data>
+				<attribute name="concept:name">13</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T08:06:01.446-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T08:06:01.446-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T10:36:13.129-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T10:36:13.129-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T10:51:01.319-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T10:51:01.319-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T14:22:27.401-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T14:22:27.401-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T15:46:31.535-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T15:46:31.535-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T18:03:32.767-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T18:03:32.767-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T18:18:36.517-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T18:18:36.517-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T19:51:23.648-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T19:51:23.648-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T19:57:57.952-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T19:57:57.952-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Prepare acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T20:37:47.162-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Prepare acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T20:37:47.162-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check if home insurance quote is requested</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T21:06:02.762-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check if home insurance quote is requested</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T21:06:02.762-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T22:09:43.271-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T22:09:43.271-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T22:12:32.731-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T22:12:32.731-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Approve application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T22:51:36.846-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Approve application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T22:51:36.846-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application approved</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T23:27:31.901-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application approved</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T23:27:31.901-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="14" description="instance with id 14">
+			<Data>
+				<attribute name="concept:name">14</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T08:24:36.036-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T08:24:36.036-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T08:52:30.975-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T08:52:30.975-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T09:06:09.391-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T09:06:09.391-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T09:29:52.647-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T09:29:52.647-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T09:51:01.310-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T09:51:01.310-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T09:55:16.210-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T09:55:16.210-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T09:55:16.278-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T09:55:16.278-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T09:55:43.114-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T09:55:43.114-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Approve application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T11:38:54.908-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Approve application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T11:38:54.908-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application approved</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-08T13:35:41.124-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application approved</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-08T13:35:41.124-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+		<ProcessInstance id="15" description="instance with id 15">
+			<Data>
+				<attribute name="concept:name">15</attribute>
+			</Data>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application received</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T01:01:26.634-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application received</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T01:01:26.634-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T02:51:56.064-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T02:51:56.064-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Return application back to applicant</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T02:58:02.223-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Return application back to applicant</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T02:58:02.223-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Receive updated application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T04:52:59.111-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Receive updated application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T04:52:59.111-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check  application  form completeness</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T05:44:31.858-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check  application  form completeness</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T05:44:31.858-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Appraise property</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T05:44:33.717-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Appraise property</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T05:44:33.717-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check credit history</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T07:16:44.315-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check credit history</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T07:16:44.315-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess loan risk</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T08:16:48.574-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess loan risk</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T08:16:48.574-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Assess eligibility</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T09:04:02.139-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Assess eligibility</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T09:04:02.139-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Prepare acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T09:08:53.945-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Prepare acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T09:08:53.945-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Check if home insurance quote is requested</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T09:19:53.374-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Check if home insurance quote is requested</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T09:19:53.374-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Send acceptance pack</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T11:32:24.445-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Send acceptance pack</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T11:32:24.445-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Verify repayment agreement</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T13:09:02.348-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Verify repayment agreement</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T13:09:02.348-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Approve application</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T13:48:16.328-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Approve application</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T13:48:16.328-02:00</timestamp>
+			</AuditTrailEntry>
+			<AuditTrailEntry>
+				<Data>
+					<attribute name="concept:name">Loan  application approved</attribute>
+					<attribute name="lifecycle:transition">complete</attribute>
+					<attribute name="time:timestamp">2000-01-13T15:15:15.192-02:00</attribute>
+				</Data>
+				<WorkflowModelElement>Loan  application approved</WorkflowModelElement>
+				<EventType>complete</EventType>
+				<timestamp>2000-01-13T15:15:15.192-02:00</timestamp>
+			</AuditTrailEntry>
+		</ProcessInstance>
+	</Process>
+</WorkflowLog>
